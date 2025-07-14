@@ -41,7 +41,6 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
   <a href="https://www.linkedin.com/in/fernandobrigida/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
 
 </div>
 

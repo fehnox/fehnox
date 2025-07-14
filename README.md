@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="200" alt="Fernando em estilo anime" />
-</p>
 
 ## 🧑‍💻 Sobre mim
 

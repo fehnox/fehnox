@@ -1,5 +1,7 @@
 <p align="center">
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Fernando!;" />
+</h1>
 ## 🧑‍💻 Sobre mim
 
 Olá! Meu nome é Fernando Brigida, sou **desenvolvedor Front-End** e estudante de **Engenharia de Telecomunicações** pela **UFPA** (Universidade Federal do Pará). Tenho paixão por criar interfaces modernas, responsivas e com foco na experiência do usuário.
@@ -16,16 +18,18 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 ---
 
 
-
-
-<h2><p align="center"> 📈 GitHub Stats </h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=📈+GitHub+Stats!;" />
+</h1>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fehnox&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehnox&layout=compact&theme=tokyonight" />
 </p>
 
----
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=📈+Redes+Sociais!;" />
+</h1>
   <a href="https://x.com/fehnox" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
@@ -44,16 +48,12 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 
 </div>
 
+<br>
 
- <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
+<br> 
+<br> 
 
-### 🐍 Snake eating my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fehnox/fehnox/output/github-contribution-grid-snake.svg" />
-</p>
-
-
+<h1 align="center"> <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" /> </h1>
 
 <p align="center"> 
   Feito com ❤️ por Fernando Brigida <br>

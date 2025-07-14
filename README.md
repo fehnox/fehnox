@@ -1,23 +1,6 @@
 <h1 align="center">Olá, eu sou o Fernando 👋</h1>
 
-<p align="center">
-
-## 💼 Projetos em destaque
-
-📌 **[Meu Portfólio](https://seu-link-aqui.com)**  
-Um portfólio responsivo com animações suaves e navegação moderna.
-
-📌 **[To-Do List Minimalista](https://github.com/fehnox/todo-app)**  
-App de tarefas com design clean, modo escuro e armazenamento local.
-
-📌 **[Clone do Spotify](https://github.com/fehnox/spotify-clone)**  
-Uma reprodução funcional do layout do Spotify, com integração via API.
-
-> Veja mais no meu repositório 👉 [github.com/fehnox](https://github.com/fehnox)
-
----
-
-## 📈 GitHub Stats
+<h2><p align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fehnox&show_icons=true&theme=tokyonight" />
@@ -25,8 +8,7 @@ Uma reprodução funcional do layout do Spotify, com integração via API.
 </p>
 
 ---
-### 📬 Contato
-
+<h1 align="center"> 📬 Contato 👋</h1>
 <div align="center">
 
   <a href="https://x.com/fehnox" target="_blank">
@@ -44,24 +26,11 @@ Uma reprodução funcional do layout do Spotify, com integração via API.
   <a href="https://www.linkedin.com/in/fernandobrigida/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-
-
 <p align="center">
-  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="300" alt="Fernando em estilo anime" />
-
+  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
 </p>
 
 </div>
-## 📬 Contato
-
-Quer trocar uma ideia ou colaborar em algo?
-
-- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- 🌐 Portfólio: [seusite.com](https://seusite.com)
-
----
 
 <p align="center">
   Feito com ❤️ por Fernando Brigida

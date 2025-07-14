@@ -45,6 +45,13 @@ Uma reprodução funcional do layout do Spotify, com integração via API.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
+
+
+<p align="center">
+  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="300" alt="Fernando em estilo anime" />
+
+</p>
+
 </div>
 ## 📬 Contato
 

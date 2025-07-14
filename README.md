@@ -47,11 +47,10 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 
  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
 
-### 🐍 Snake eating my contributions
 
-![snake gif](https://github.com/fehnox/fehnox/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center"> 
   Feito com ❤️ por Fernando Brigida <br>
 </p>
+![snake gif](https://github.com/fehnox/fehnox/blob/output/github-contribution-grid-snake.svg)

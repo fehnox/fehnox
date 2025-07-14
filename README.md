@@ -1,5 +1,28 @@
 <h1 align="center">Olá, eu sou o Fernando 👋</h1>
 
+<p align="center">
+  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="200" alt="Fernando em estilo anime" />
+</p>
+
+## 🧑‍💻 Sobre mim
+
+Olá! Meu nome é Fernando Brigida, sou **desenvolvedor Front-End** e estudante de **Engenharia de Telecomunicações** pela **UFPA** (Universidade Federal do Pará). Tenho paixão por criar interfaces modernas, responsivas e com foco na experiência do usuário.
+
+- 🎨 Foco em design limpo e minimalista  
+- 💡 Entusiasta de tecnologias web e interfaces animadas  
+- 🌐 Familiaridade com React, Tailwind, JavaScript moderno  
+- 🚀 Em constante aprendizado e sempre aberto a novos desafios
+
+Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open-source que me ajudam a crescer como dev e como pessoa.
+
+> “Transformando ideias em interfaces.”
+
+---
+
+
+
+
+
 <h2><p align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
@@ -26,9 +49,7 @@
   <a href="https://www.linkedin.com/in/fernandobrigida/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<p align="center">
   <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
-</p>
 
 </div>
 

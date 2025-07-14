@@ -54,6 +54,7 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 </p>
 
 
+
 <p align="center"> 
   Feito com ❤️ por Fernando Brigida <br>
 </p>

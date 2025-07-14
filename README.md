@@ -47,7 +47,11 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 
  <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" />
 
-![snake gif](https://github.com/fehnox/fehnox/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake eating my contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fehnox/fehnox/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <p align="center"> 

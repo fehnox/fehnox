@@ -30,6 +30,8 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=📈+Redes+Sociais!;" />
 </h1>
+
+<div align="center"> 
   <a href="https://x.com/fehnox" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
@@ -47,11 +49,6 @@ Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open
   </a>
 
 </div>
-
-<br>
-
-<br> 
-<br> 
 
 <h1 align="center"> <img src="https://github.com/fehnox/fehnox/blob/main/ezgif.com-animated-gif-maker.gif" width="100" alt="Fernando em estilo anime" /> </h1>
 

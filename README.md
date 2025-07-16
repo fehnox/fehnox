@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Fernando!;" />
 </h1>
 ## 🧑‍💻 Sobre mim
-Olá! Meu nome é Fernando Brigida, sou **desenvolvedor Front-End** e estudante de **Engenharia de Telecomunicações** pela **UFPA** (Universidade Federal do Pará). Tenho paixão por criar interfaces modernas, responsivas e com foco na experiência do usuário.
+Olá! Meu nome é Fernando Brigida, sou desenvolvedor Front-End e estudante de Engenharia de Telecomunicações pela UFPA (Universidade Federal do Pará). Tenho paixão por criar interfaces modernas, responsivas e com foco na experiência do usuário.
 
 - 🎨 Foco em design limpo e minimalista  
 - 💡 Entusiasta de tecnologias web e interfaces animadas  

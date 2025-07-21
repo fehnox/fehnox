@@ -9,7 +9,7 @@ Olá! Meu nome é Fernando Brigida, sou desenvolvedor Front-End e estudante de E
 - 💡 Entusiasta de tecnologias web e interfaces animadas  
 - 🌐 Familiaridade com React, Tailwind, JavaScript moderno  
 - 🚀 Em constante aprendizado e sempre aberto a novos desafios
-- A
+  
 Atualmente estou desenvolvendo projetos pessoais e contribuindo em projetos open-source que me ajudam a crescer como dev e como pessoa.
 
 > “Transformando ideias em interfaces.”
